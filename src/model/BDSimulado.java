@@ -97,7 +97,6 @@ public class BDSimulado {
 	public void insereUsuario(Usuario usuario){
 		this.usuarios.add(usuario);
 	}
-	
 
 	public void insereLivro(Livro livro) {
 		this.livros.add(livro);

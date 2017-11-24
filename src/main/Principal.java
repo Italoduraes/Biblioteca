@@ -1,12 +1,6 @@
 package main;
 
 import Control.ControlePrincipal;
-import Control.ControleExibeEmprestimos;
-import Control.ControlePesquisaUsuario;
-import Control.ControlePrincipal;
-import Control.ControleUsuario;
-import Control.ControleExibeLivro;
-import Control.ControleLivro;
 
 public class Principal {
 
